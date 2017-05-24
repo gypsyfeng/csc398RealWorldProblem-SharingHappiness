@@ -1,0 +1,32 @@
+Group 1 Psychology - M - 7.5
+
+- Your presentation slides should have a title page which describes your project and target audience
+
+- A table of contents or outline at the top of the presentation document is also very helpful
+
++ Your notes to the presentation are VERY THOROUGH and detailed, too bad there is not enough time to present all this detail during the allotted time in class.
+
+- "Keep daily post" is not a user need, their need is to "improve their wellbeing and mood", "be social," "keep close relations with their friends and family", 
+
++ I like the refocusing of your project
+
+- I think that most of the research relates to your project's core values such as privacy, stigma, listeners, etc.
+
+- Since you do not set up your users at the top of the document, Administrators don't make sense either without the context of what they are administering. Administrators gaining positive energy is an abstract benefit, perhaps you should say "School Administrators benefit from healthier student population" "Work managers benefit from healthier work force"
+
+- Scenarios are FUTURE Including your App, and not the CURRENT STATE as were described in the Assignment 4 Document. Please read the assignment requirements BEFORE doing the assignment, otherwise you are simply wasting your potential grades.
+
++ Good list of design requirements
+
+- Technical requirements should not include "programming language"
+
+- Not sure what Operating environment means in your list of Technical requirements
+
+- Usability requirements - easy to use, private information, connect with friends
+
+- Your list of personas should first include a "persona family" then narrow it down to the two "primary personas appearing on your Short Form Creative Brief document
+
+- Your key scenarios appeared in your presentation notes, they should also have appeared in the presentation itself.
+
+
+- Having more overlap in your design task distribution would have yielded better results for your group overall. As it is the piece wise approach felt very disjointed during testing and was probably less than ideal. Based on your test results, I will advise future classes to design the same system to ensure more overlap and complexity in each of the individual designs.

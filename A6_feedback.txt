@@ -1,0 +1,30 @@
+- Good job with the prototype design and details, and very thorough content
+
+- Good job on the test script
+
+- Consider adding after each task: I would like to ask you about the ease of completing that task.
+
+"How would you rate this task on a scale of "VERY DIFFICULT 1..2..3..4..5 VERY EASY" 
+
+- Consider adding after each task: Can you tell me about the speed of completing that task?
+
+"How would you rate this task on a scale of "VERY SLOW 1..2..3..4..5 VERY FAST" 
+
+- At the end of the test in the wrap up  discussion consider updating the questions as such:
+
+        How smooth do you think the process is? 
+
+        What bothers you the most in the whole process?
+
+Instead try asking: Was there any part of the process that you found problematic? бн  Can you tell me a bit more about this?
+
+           How long would you stay for this if you can choose? 
+
+Instead say: How valuable would you say this app is for you? Using the following scale
+
+NOT AT ALL VALUABLE 1  2  3  4  5 VERY VALUABLE
+
+Also say: If you had this experience with this app, like you had now, would you use it?
+
+
+Yes / No; and Why? _____________
